@@ -11,7 +11,7 @@
 
 ## Get Started
 
-Visit [Arsip Nusa](https://arsipnusa.github.io) to explore and start building your online presence!
+Visit [Arsip Nusa]([https://arsipnusa.github.io](https://arsipnusa.github.io/Landing-Page-Arsip-Nusa/)) to explore and start building your online presence!
 
 ## Contact
 
